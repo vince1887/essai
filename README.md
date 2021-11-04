@@ -4,7 +4,7 @@
 ## 2.saute
 ### 3.dehors
 
-	| Syntax | Description |
+| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
