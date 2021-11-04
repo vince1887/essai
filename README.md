@@ -12,8 +12,8 @@
 | Photo  | ![photo de grenouille](images.jfif)  |
 
 # liste different niveau
-*premier niveau,premier element
-  *deuxieme niveau, premier element
-  *deuxieme niveau. deuxieme element
-    *troisime niveau,premier element
-*premier niveau deuxieme element
+* premier niveau,premier element
+  * deuxieme niveau, premier element
+  * deuxieme niveau. deuxieme element
+    * troisime niveau,premier element
+* premier niveau deuxieme element
